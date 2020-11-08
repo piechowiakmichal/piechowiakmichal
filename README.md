@@ -1,6 +1,6 @@
-### Hi, my name is Michał ⌨️🖱️
+# Hi, my name is Michał ⌨️🖱️
 
-I'm 16 years old. I am a Linux enthusiast and am currently learning C++ 👨‍💻
+<samp>I'm 16 years old. I am a Linux enthusiast and am currently learning C++ 👨‍💻</samp>
 
 <!--
 <p align="center">
