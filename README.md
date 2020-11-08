@@ -1,10 +1,6 @@
-<h2 align="center"><samp>Hi, my name is Michał ⌨️🖱️</samp></h2>
+### Hi, my name is Michał ⌨️🖱️
 
-<p align="center"> 
-   <samp> 
-      I'm 16 years old. I am a Linux enthusiast and am currently learning C++ 👨‍💻
-   </samp>
-</p> 
+I'm 16 years old. I am a Linux enthusiast and am currently learning C++ 👨‍💻
 
 <!--
 <p align="center">
