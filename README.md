@@ -13,10 +13,6 @@
         <br>
         <br> You can contact with me via:
     </p>
-    <div class="highlight">
-        email: <div class="highlight_inner"><a class="decoration-none contact-link" href="mailto:contact@piechowiak.dev">contact@piechowiak.dev</a></div>
-    </div>
-    <div class="highlight">
-        twitter: <div class="highlight_inner"><a class="decoration-none contact-link" href="https://twitter.com/nothing3f">@nothing3f</a></div>
-    </div>
+    email: <a href="mailto:contact@piechowiak.dev">contact@piechowiak.dev</a>
+    twitter: <a href="https://twitter.com/nothing3f">@nothing3f</a>
 </body>
