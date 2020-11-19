@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://piechowiak.dev/css/style.css" type="text/css">
 <body>
     <b>Hello!</b>
     <hr>
