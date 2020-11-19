@@ -1,5 +1,4 @@
 <body>
-    <br><br><br><br>
     <b>Hello!</b>
     <hr>
     <p class="left">
@@ -18,7 +17,7 @@
     <div class="highlight">
         <div class="highlight_inner"><a class="decoration-none contact-link" href="mailto:contact@piechowiak.dev">contact@piechowiak.dev</a></div>
     </div>
-    <br><br> twitter:
+    twitter:
     <div class="highlight">
         <div class="highlight_inner"><a class="decoration-none contact-link" href="https://twitter.com/nothing3f">@nothing3f</a></div>
     </div>
