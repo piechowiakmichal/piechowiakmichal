@@ -1,31 +1,25 @@
-# Hi, my name is Michał ⌨️🖱️
-
-### I'm 16 years old. I am a Linux enthusiast and am currently learning C++ 👨‍💻
-
-<!--
-<p align="center">
-    <a href="https://www.github.com/nothing3f/" target="_blank">
-        <img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" />
-    </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/shashank-pathak-8b0481156/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>&nbsp;&nbsp;
-    <a href="mailto:shashank.pathak.cd.eee19@itbhu.ac.in?subject=Via%20Github:">
-        <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/pathakshashank17/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>&nbsp;&nbsp;
-</p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body>
+    <br><br><br><br>
+    <b>Hello!</b>
+    <hr>
+    <p class="left">
+        <br>Hello! My name is Michael. I am 16 years old student. Beginner developer and Linux enthusiast.
+    </p>
+    <b>About me</b>
+    <hr>
+    <p class="left">
+        <br> My nickname is <strong>nothing3f</strong>, but my real name is <strong>Michał Piechowiak</strong>.
+        <br> I am beginner developer and Linux enthusiast from Poland.
+        <br> Currently, I am a student of an IT technical school in my country.
+        <br>
+        <br> You can contact with me via:
+    </p>
+    email:
+    <div class="highlight">
+        <div class="highlight_inner"><a class="decoration-none contact-link" href="mailto:contact@piechowiak.dev">contact@piechowiak.dev</a></div>
+    </div>
+    <br><br> twitter:
+    <div class="highlight">
+        <div class="highlight_inner"><a class="decoration-none contact-link" href="https://twitter.com/nothing3f">@nothing3f</a></div>
+    </div>
+</body>
