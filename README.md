@@ -1,9 +1,8 @@
-<link rel="stylesheet" href="https://piechowiak.dev/css/style.css" type="text/css">
 <body>
     <b>Hello!</b>
     <hr>
     <p class="left">
-        <br>Hello! My name is Michael. I am 16 years old student. Beginner developer and Linux enthusiast.
+        Hello! My name is Michael. I am 16 years old student. Beginner developer and Linux enthusiast.
     </p>
     <b>About me</b>
     <hr>
