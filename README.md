@@ -2,6 +2,8 @@
 
 Hello! My name is Michael. I am 16 years old student. Beginner developer and Linux enthusiast.
 
+![](https://komarev.com/ghpvc/?username=nothing3f&color=blue)
+
 ## About me
 
 My nickname is **nothing3f**, but my real name is **Michał Piechowiak**.  
