@@ -7,7 +7,7 @@
     <b>About me</b>
     <hr>
     <p class="left">
-        <br> My nickname is <strong>nothing3f</strong>, but my real name is <strong>Michał Piechowiak</strong>.
+        My nickname is <strong>nothing3f</strong>, but my real name is <strong>Michał Piechowiak</strong>.
         <br> I am beginner developer and Linux enthusiast from Poland.
         <br> Currently, I am a student of an IT technical school in my country.
         <br>
