@@ -13,8 +13,8 @@
         <br>
         <br> You can contact with me via:
     </p>
-    email:
-    <div class="highlight">
+    email: <div class="highlight">
+    
         <div class="highlight_inner"><a class="decoration-none contact-link" href="mailto:contact@piechowiak.dev">contact@piechowiak.dev</a></div>
     </div>
     twitter:
