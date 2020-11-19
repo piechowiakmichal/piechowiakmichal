@@ -13,5 +13,5 @@
         <br>
         <br> You can contact with me via:
     </p>
-    email: <a href="mailto:contact@piechowiak.dev">contact@piechowiak.dev</a><br>twitter: <a href="https://twitter.com/nothing3f">@nothing3f</a>
+    email: <a href="mailto:contact@piechowiak.dev">contact@piechowiak.dev</a><br><br>twitter: <a href="https://twitter.com/nothing3f">@nothing3f</a>
 </body>
