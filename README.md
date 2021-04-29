@@ -1,6 +1,6 @@
 ## Hello!
 
-Hello! My name is Michael. I am 16 years old student. Beginner developer and Linux enthusiast.
+Hello! My name is Michael. I am 17 years old student. Beginner developer and Linux enthusiast.
 
 ![](https://komarev.com/ghpvc/?username=nothing3f&color=blue)
 [![](https://img.shields.io/badge/Website-piechowiak.dev-blue.svg)](https://piechowiak.dev/)
