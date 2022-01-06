@@ -1,1 +1,4 @@
-![](https://komarev.com/ghpvc/?username=nothing3f&color=grey&label=PROFILE+VIEWS)
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/piechowiakmichal/count.svg" />
+</p>
