@@ -2,7 +2,7 @@
 
 ## Hi! 
 My name is **Michał Piechowiak**.   
-I am 17 years old student, beginner developer.
+I am 18 years old student, beginner developer.
 
 <a href="https://www.linkedin.com/in/piechowiakmichal/" target="_blank">
   <img align="left" alt="LinkedIn" width="45px" src="https://img.icons8.com/color/96/000000/linkedin.png"/>
